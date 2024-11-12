@@ -123,7 +123,6 @@ Mapster optimizes pathfinding with Dijkstra’s algorithm, tracking both time ta
 
 ### Sample Output
 ```text
-Copy code
 Directions from IPDC Lab to Analog Circuit Lab:
 Step 1: Go LEFT to 307A Classroom (Distance: 1.5 meters)
 Step 2: Go STRAIGHT to 307B Control Lab (Distance: 2 meters)
