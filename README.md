@@ -28,7 +28,7 @@ Here are a few images to showcase the app’s functionality and user interface:
 #### Main Interface
 ![Main Interface](path/to/WhatsApp%20Image%202024-11-12%20at%2020.34.44_96a0b411.jpg)
 
-#### QR Code Scanning
+#### Search Your Destiny
 ![QR Code Scanning](path/to/WhatsApp%20Image%202024-11-12%20at%2020.34.44_9296915b.jpg)
 
 #### Navigation Directions
