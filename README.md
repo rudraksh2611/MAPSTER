@@ -4,10 +4,11 @@ An Offline Indoor Navigation App for Large Buildings
 Hello! I'm Rudraksh Singh Bhadauria, a B.Tech student at Sharda University, and I'm thrilled to introduce my latest project, **Mapster**. This innovative app aims to simplify indoor navigation within large, complex buildings by allowing users to navigate effortlessly without relying on an internet or GPS connection. By scanning strategically placed QR codes, Mapster provides users with precise, step-by-step directions to their desired destination.
 
 ### Introdution Audio
+
 [Audio](
 https://github.com/user-attachments/assets/55cab040-d78c-4b23-a2fb-c5e45dd20487)
 
-
+NOTE - Since GitHub’s README files don’t support direct MP3 uploads, I’ve uploaded an MP4 version instead. I hope you enjoy the introduction provided in the video. 
 
 ## Table of Contents
 
