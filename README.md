@@ -26,13 +26,13 @@ Mapster is designed to assist users navigating large buildings, such as campuses
 Here are a few images to showcase the app’s functionality and user interface:
 
 #### Main Interface
-![Main Interface](path/to/WhatsApp%20Image%202024-11-12%20at%2020.34.44_96a0b411.jpg)
+![Main Interface](https://github.com/rudraksh2611/MAPSTER/blob/4788dfddbea81c8bbcdb2848123ecf7e3f22a680/Main%20Interface)
 
 #### Search Your Destiny
-![QR Code Scanning](path/to/WhatsApp%20Image%202024-11-12%20at%2020.34.44_9296915b.jpg)
+![QR Code Scanning](https://github.com/rudraksh2611/MAPSTER/blob/4788dfddbea81c8bbcdb2848123ecf7e3f22a680/Search%20Your%20Destiny)
 
 #### Navigation Directions
-![Navigation Directions](path/to/WhatsApp%20Image%202024-11-12%20at%2020.34.44_6e243d87.jpg)
+![Navigation Directions](https://github.com/rudraksh2611/MAPSTER/blob/4788dfddbea81c8bbcdb2848123ecf7e3f22a680/Navigation%20Directions)
 
 ## Features
 
